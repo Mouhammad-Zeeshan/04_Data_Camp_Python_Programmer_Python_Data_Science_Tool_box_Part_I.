@@ -1,0 +1,25 @@
+04 - Python Tool box part 01: 
+Key_Words:
+
+
+**Chapter-01:
+1. Functions, Header , Body and result.
+2. Parameter and Arguments.
+3. Builtin Functions.
+4. return in function.
+5. Docstring during functions.
+
+**Chapter-02:
+1. Scope in user define functions.
+2. Global Scope, Local Scope and Built in Scope.
+3. Nested Functions.
+4. Keyword Global and non local.
+5. Default and Flexible Argument.
+
+**Chapter-03:
+1. Lambda FUnctions.
+2.  Map Function.
+3. Error Handling, try and Exceptions.
+4. Raise Value error.
+
+
